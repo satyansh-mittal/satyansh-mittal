@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyansh-mittal&label=Profile%20views&color=0e75b6&style=flat" alt="satyansh-mittal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh-mittal" alt="satyansh-mittal" /></a> </p>
+
 
 - 🌱 I’m currently learning **JAVA, DSA**
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about **JAVA, Problem Solving**
 
 - 📫 How to reach me **satyansh.mittal166@nmims.edu.in**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh-mittal" alt="satyansh-mittal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyanshmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyanshmittal" height="30" width="40" /></a>
