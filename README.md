@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Satyansh Mittal</h1>
-<
-h3 align="center">A passionate JAVA developer from India.</h3>
+<h3 align="center">A passionate JAVA developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyansh-mittal&label=Profile%20views&color=0e75b6&style=flat" alt="satyansh-mittal" /> </p>
