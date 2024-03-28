@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA, DSA**
+- 🌱 I’m currently learning **JAVA, WebDevelopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyansh-mittal?tab=repositories](https://github.com/satyansh-mittal?tab=repositories)
 
