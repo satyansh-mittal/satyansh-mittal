@@ -7,13 +7,13 @@
 
 
 
-- 🌱 I’m currently learning **JAVA, WebDevelopment**
+- 🌱 I’m currently learning **JAVA, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/satyansh-mittal?tab=repositories](https://github.com/satyansh-mittal?tab=repositories)
 
-- 💬 Ask me about **JAVA, Problem Solving**
+- 💬 Ask me about **JAVA, Problem Solving, NodeJS**
 
-- 📫 How to reach me **satyansh.mittal166@nmims.edu.in**
+- 📫 How to reach me **satyansh.mittal17@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh-mittal" alt="satyansh-mittal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
