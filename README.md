@@ -1,25 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Satyansh Mittal</h1>
 <h3 align="center">A passionate JAVA developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyansh-mittal&label=Profile%20views&color=0e75b6&style=flat" alt="satyansh-mittal" /> </p>
+# 💫 About Me:
+🌱 I’m currently learning JAVA, NodeJs.<br><br>🤝 I’m looking for help with internships and jobs.<br><br>📫 How to reach me satyansh.mittal17@gmail.com
 
-
-
-- 🌱 I’m currently learning **JAVA, NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/satyansh-mittal?tab=repositories](https://github.com/satyansh-mittal?tab=repositories)
-
-- 💬 Ask me about **JAVA, Problem Solving, NodeJS**
-
-- 📫 How to reach me **satyansh.mittal17@gmail.com**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyansh-mittal" alt="satyansh-mittal" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satyanshmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyanshmittal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyansh_mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyansh_mittal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@satyansh_mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@satyansh_mittal" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyanshmittal) 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
