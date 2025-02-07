@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyansh Mittal</h1>
-<h3 align="center">A passionate JAVA developer from India.</h3>
+<h3 align="center">A passionate JAVA developer.</h3>
 
 # About Me:
 🌱 I’m currently learning JAVA, NodeJs.<br><br>🤝 I’m looking for help with internships and jobs.<br>
