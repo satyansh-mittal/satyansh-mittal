@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyansh Mittal</h1>
-<h3 align="center">A passionate JAVA developer.</h3>
+<h3 align="center">A passionate JAVA and AI/ML developer.</h3>
 
 # About Me:
-🌱 I’m currently learning JAVA, NodeJs.<br><br>🤝 I’m looking for help with internships and jobs.<br>
+🌱 I’m currently learning JAVA, AI.<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
