@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JAVA and AI/ML developer.</h3>
 
 # About Me:
-🌱 I’m currently learning JAVA, AI.<br><br>
+🌱 I like to build.<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
